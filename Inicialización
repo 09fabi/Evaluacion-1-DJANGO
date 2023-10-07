@@ -1,1 +1,2 @@
-I
+PS C:\Users\quexa\OneDrive\Desktop\Evaluacion-1-DJANGO-main> cd .\django_evaluacion_1\
+PS C:\Users\quexa\OneDrive\Desktop\Evaluacion-1-DJANGO-main\django_evaluacion_1> python manage.py runserver
